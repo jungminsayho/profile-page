@@ -1,0 +1,19 @@
+.status_bar {
+  display: flex;
+  margin: 0 5px;
+}
+
+.status_bar_column {
+  width: 50%;
+  padding: 0 5px;
+}
+
+.status_bar_column:first-child {
+  font-size: small;
+  padding-top: 2px;
+}
+.status_bar_column:last-child {
+  padding-top: 0;
+  display: flex;
+  justify-content: flex-end;
+}

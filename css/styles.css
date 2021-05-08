@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap");
+
+@import "status_bar.css";
+@import "main.css";
+@import "detail_page.css";
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #6ccf8f;
+  font-family: "Nanum Gothic", sans-serif;
+}
+
+main {
+  width: 350px;
+  height: 650px;
+  border-radius: 30px;
+  padding: 10px;
+  color: white;
+  background-color: black;
+}
