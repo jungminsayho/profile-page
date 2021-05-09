@@ -10,6 +10,7 @@ body {
   align-items: center;
   background-color: #6ccf8f;
   font-family: "Nanum Gothic", sans-serif;
+  height: 100vh;
 }
 
 main {
@@ -19,4 +20,5 @@ main {
   padding: 10px;
   color: white;
   background-color: black;
+  position: relative;
 }
