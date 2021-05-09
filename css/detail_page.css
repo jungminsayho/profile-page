@@ -9,6 +9,7 @@
   align-items: center;
   font-size: large;
   font-weight: 600;
+  position: relative;
 }
 
 .main_box_follow {
@@ -43,7 +44,7 @@
   width: 350px;
   height: 330px;
   position: absolute;
-  top: 44px;
+  top: 0%;
 }
 
 .main_box_element {
@@ -57,7 +58,7 @@
 }
 .play_button {
   position: absolute;
-  top: 360px;
+  top: 52.5%;
   background-color: #23b954;
   width: 190px;
   height: 30px;
